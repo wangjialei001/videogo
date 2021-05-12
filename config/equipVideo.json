@@ -1,0 +1,46 @@
+[
+  {
+    "Url": "192.168.2.105",
+    "Port": 554,
+    "UserName": "admin",
+    "Pwd": "Zrh#2020",
+    "Num": 1,
+    "Id": 5,
+    "EquipId": 475179590539808
+  },
+  {
+    "Url": "192.168.2.101",
+    "Port": 554,
+    "UserName": "admin",
+    "Pwd": "zrh62990818",
+    "Num": 1,
+    "Id": 6,
+    "EquipId": 474902489004576
+  },
+  {
+    "Url": "192.168.2.102",
+    "Port": 554,
+    "UserName": "admin",
+    "Pwd": "zrh62990818",
+    "Num": 1,
+    "Id": 7,
+    "EquipId": 474902498119200
+  },
+  {
+    "Url": "192.168.2.103",
+    "Port": 554,
+    "UserName": "admin",
+    "Pwd": "zrh62990818",
+    "Num": 1,
+    "Id": 8,
+    "EquipId": 474902509715488
+  },
+  {
+    "Url": "192.168.2.104",
+    "Port": 554,
+    "UserName": "admin",
+    "Pwd": "zrh62990818",
+    "Num": 1,
+    "Id": 9
+  }
+]
